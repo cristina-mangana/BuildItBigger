@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joke Display Library</string>
+    <string name="error">An error has occurred. Please try again later</string>
+</resources>

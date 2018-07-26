@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background colors array-->
+    <array name="joke_background">
+        <item>@color/background1</item>
+        <item>@color/background2</item>
+        <item>@color/background3</item>
+        <item>@color/background4</item>
+        <item>@color/background5</item>
+        <item>@color/background6</item>
+    </array>
+</resources>

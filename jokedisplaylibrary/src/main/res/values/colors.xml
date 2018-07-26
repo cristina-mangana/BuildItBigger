@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background colors -->
+    <color name="background1">#B71C1C</color>
+    <color name="background2">#AD1457</color>
+    <color name="background3">#0D47A1</color>
+    <color name="background4">#006064</color>
+    <color name="background5">#005005</color>
+    <color name="background6">#BF360C</color>
+</resources>
